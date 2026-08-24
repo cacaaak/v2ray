@@ -1,0 +1,2 @@
+trojan://e742e607-7f4f-4344-bbc8-d49e7d5b0456@space.byu.id:443?path=%2Ftrojan&security=tls&insecure=0&host=id1.arth.my.id&type=ws&allowInsecure=0&sni=id1.arth.my.id#120926%40id1.arth.my.id
+trojan://41c658cb-466a-46f7-a195-d0de2f797f3a@space.byu.id:443?path=%2Ftrojan&security=tls&insecure=0&host=point.natss.my.id&type=ws&allowInsecure=0&sni=point.natss.my.id#060926%40point.natss.my.id
