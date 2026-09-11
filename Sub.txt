@@ -1,1 +1,1 @@
-trojan://e742e607-7f4f-4344-bbc8-d49e7d5b0456@space.byu.id:443?path=%2Ftrojan&security=tls&insecure=0&host=id1.arth.my.id&type=ws&allowInsecure=0&sni=id1.arth.my.id#12.september%40id1.arth.my.id
+trojan://47c047a1-840c-4a01-9990-23b19feed504@space.byu.id:443?path=%2Ftrojan&security=tls&insecure=0&host=id2.arth.my.id&type=ws&allowInsecure=0&sni=id2.arth.my.id#11.november%40id2.arth.my.id
