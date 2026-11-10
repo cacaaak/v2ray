@@ -1,1 +1,1 @@
-trojan://47c047a1-840c-4a01-9990-23b19feed504@forumdemo.xyz:443?path=%2Ftrojan&security=tls&insecure=0&host=id2.arth.my.id&type=ws&allowInsecure=0&sni=id2.arth.my.id#11.november%40id2.arth.my.id
+vless://09e31ee9-e49b-4c4b-93d7-e246f8a27c79@forumdemo.xyz:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=vless&allowInsecure=0&sni=1.keree.web.id#16november%401.keree.web.id
